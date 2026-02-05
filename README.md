@@ -2,10 +2,16 @@
 
 <h2 align="left"><b> Msc in Engineering Management | Mining and Metallurgical Engineer | Data Analytics Learner</b></h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/andresherreraorozco/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Andres%20Herrera%20Orozco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:andresherrera.o@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Mexico%20%7C%20Spain-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Andres%20Herrera%20Orozco-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andresherreraorozco/)
-[![Email](https://img.shields.io/badge/Email-andresherrera.o@outlook.com-red?style=for-the-badge&logo=gmail)]
-[![Location](https://img.shields.io/badge/Location-Mexico%20%7C%20Spain-green?style=for-the-badge)]
 
 ---
 
