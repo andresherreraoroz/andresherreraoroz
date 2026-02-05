@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm J. Andres
 
-<h2 align="center"><b>🎯 Engineering Management MSc | Mining and Metallurgical Engineer | Data Analytics Learner</b></h2>
+<h2 align="left"><b> Msc in Engineering Management | Mining and Metallurgical Engineer | Data Analytics Learner</b></h2>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Andres%20Herrera%20Orozco-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andresherreraorozco/)
