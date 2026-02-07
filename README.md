@@ -32,9 +32,9 @@ Core areas of interest:
 ## 🧠 Technical Skills
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analytics-blue?style=for-the-badge&logo=postgresql)
-![PowerBI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi)
-![R](https://img.shields.io/badge/R-Data%20Analysis-blue?style=for-the-badge&logo=r)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue?style=for-the-badge&logo=postgresql)
+![PowerBI](https://img.shields.io/badge/PowerBI-Basic-blue?style=for-the-badge&logo=powerbi)
+![R](https://img.shields.io/badge/R-Data%20Intermediate-yellow?style=for-the-badge&logo=r)
 ![Python](https://img.shields.io/badge/Python-Learning-orange?style=for-the-badge&logo=python)
 
 ---
